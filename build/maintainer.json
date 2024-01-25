@@ -85,6 +85,9 @@
     "/19lou/:city?": [
         "nczitzk"
     ],
+    "/1lou/:path?": [
+        "falling"
+    ],
     "/1point3acres/blog/:category?": [
         "nczitzk"
     ],
@@ -288,6 +291,9 @@
         "SunBK201"
     ],
     "/acm/amturingaward": [],
+    "/acpaa/:id?/:name?": [
+        "nczitzk"
+    ],
     "/acs/journal/:id": [
         "nczitzk"
     ],
@@ -312,6 +318,9 @@
         "nczitzk"
     ],
     "/agirls/:category?": [
+        "TonyRL"
+    ],
+    "/agirls/topic/:topic": [
         "TonyRL"
     ],
     "/agirls/topic_list": [
@@ -1186,6 +1195,9 @@
         "TonyRL"
     ],
     "/cfan/news": [],
+    "/cfmmc/:id?": [
+        "nczitzk"
+    ],
     "/cgtn/most/:type?/:time?": [],
     "/cgtn/opinions": [],
     "/cgtn/podcast/:category/:id": [
@@ -1267,6 +1279,9 @@
         "yanbot-team"
     ],
     "/chsi/zszcgd/:category?": [],
+    "/chuanliu/nice": [
+        "nczitzk"
+    ],
     "/chuapp/index/:category?": [],
     "/chuhaibiji": [],
     "/cia/foia-annual-report": [],
@@ -1389,6 +1404,9 @@
         "nczitzk"
     ],
     "/cnljxh/price/:id?": [
+        "nczitzk"
+    ],
+    "/cntheory/paper/:id?": [
         "nczitzk"
     ],
     "/cntv/:column": [
@@ -1587,7 +1605,9 @@
         "Rjnishant530"
     ],
     "/dailyart/:language?": [],
-    "/damai/activity/:city/:category/:subcategory/:keyword?": [],
+    "/damai/activity/:city/:category/:subcategory/:keyword?": [
+        "hoilc"
+    ],
     "/daodu/:caty?": [],
     "/dapenti/subject/:id": [
         "xyqfer"
@@ -1782,6 +1802,9 @@
     ],
     "/docschina/jsweekly": [
         "daijinru"
+    ],
+    "/dol/announce/:owner?/:province?/:office?": [
+        "itpcc"
     ],
     "/domp4/detail/:id": [
         "savokiss"
@@ -2082,6 +2105,9 @@
     "/ehentai/tag/:tag/:page?/:routeParams?": [
         "yindaheng98",
         "syrinka"
+    ],
+    "/ekantipur/:channel?": [
+        "maniche04"
     ],
     "/elasticsearch-cn/:params?": [
         "nczitzk"
@@ -2553,7 +2579,8 @@
         "TonyRL"
     ],
     "/google/citations/:id": [
-        "KellyHwong"
+        "KellyHwong",
+        "const7"
     ],
     "/google/doodles/:language?": [
         "xyqfer"
@@ -2578,6 +2605,9 @@
     ],
     "/gov/anhui/kjt/:path?": [
         "nczitzk"
+    ],
+    "/gov/beijing/bjedu/gh/:urlPath?": [
+        "TonyRL"
     ],
     "/gov/beijing/bjeea/:type": [],
     "/gov/beijing/bphc/:channel": [
@@ -2838,7 +2868,7 @@
         "Fatpandac"
     ],
     "/gov/province/:name/:category": [],
-    "/gov/safe/bussiness/:site?": [
+    "/gov/safe/business/:site?": [
         "nczitzk"
     ],
     "/gov/safe/complaint/:site?": [
@@ -2895,8 +2925,16 @@
         "bigfei",
         "nczitzk"
     ],
-    "/gov/suzhou/doc": [],
-    "/gov/suzhou/news/:uid": [],
+    "/gov/suzhou/doc": [
+        "EsuRt"
+    ],
+    "/gov/suzhou/fg/:category?": [
+        "nczitzk"
+    ],
+    "/gov/suzhou/news/:uid": [
+        "EsuRt",
+        "luyuhuang"
+    ],
     "/gov/taiwan/mnd": [],
     "/gov/taiyuan/rsj/:caty/:page?": [
         "2PoL"
@@ -3200,6 +3238,9 @@
     "/hkepc/:category?": [
         "TonyRL"
     ],
+    "/hket/:category?": [
+        "TonyRL"
+    ],
     "/hkjunkcall": [
         "nczitzk"
     ],
@@ -3244,6 +3285,9 @@
     ],
     "/houxu/memory": [
         "nczitzk"
+    ],
+    "/hoyolab/news/:language/:gids/:type": [
+        "ZenoTian"
     ],
     "/hpoi/bannerItem": [
         "DIYgod"
@@ -3293,6 +3337,9 @@
     ],
     "/hubu/news/:type": [],
     "/hudongba/:city/:id": [],
+    "/huggingface/blog-zh": [
+        "zcf0508"
+    ],
     "/huggingface/daily-papers": [
         "zeyugao"
     ],
@@ -3813,6 +3860,9 @@
         "HenryQW",
         "JimenezLi"
     ],
+    "/jiaoliudao": [
+        "TonyRL"
+    ],
     "/jiemian/account/main/:id": [
         "nczitzk"
     ],
@@ -3846,9 +3896,15 @@
     "/jin10/topic/:id": [
         "miles170"
     ],
-    "/jinse/catalogue/:caty": [],
-    "/jinse/lives": [],
-    "/jinse/timeline": [],
+    "/jinse/:category?": [
+        "nczitzk"
+    ],
+    "/jinse/lives/:category?": [
+        "nczitzk"
+    ],
+    "/jinse/timeline/:category?": [
+        "nczitzk"
+    ],
     "/jisilu/:category?/:sort?/:day?": [
         "nczitzk"
     ],
@@ -3930,6 +3986,9 @@
         "Dectinc",
         "DIYgod"
     ],
+    "/keepass": [
+        "TonyRL"
+    ],
     "/kemono/:source?/:id?": [
         "nczitzk"
     ],
@@ -3974,10 +4033,19 @@
     "/kunchengblog/essay": [
         "nczitzk"
     ],
+    "/kuwaitlocal": [
+        "TonyRL"
+    ],
+    "/kuwaitlocal/:category?": [
+        "TonyRL"
+    ],
     "/kyodonews/:language?/:keyword?": [
         "Rongronggg9"
     ],
     "/lagou/jobs/:position/:city": [],
+    "/laimanhua/:id": [
+        "TonyRL"
+    ],
     "/lang/live/room/:id": [
         "MittWillson"
     ],
@@ -4358,10 +4426,16 @@
     "/micmicidol": [],
     "/micmicidol/search/:label": [],
     "/microsoft-store/updates/:productid/:market?": [],
+    "/mihoyo/bbs/follow-list/:uid": [
+        "CaoMeiYouRen"
+    ],
     "/mihoyo/bbs/img-ranking/:game/:routeParams?": [
         "CaoMeiYouRen"
     ],
     "/mihoyo/bbs/official/:gids/:type?/:page_size?/:last_id?": [
+        "CaoMeiYouRen"
+    ],
+    "/mihoyo/bbs/user-post/:uid": [
         "CaoMeiYouRen"
     ],
     "/mihoyo/bh2/:type": [],
@@ -4442,6 +4516,9 @@
     ],
     "/mrdx/today": [
         "Dustin-Jiang"
+    ],
+    "/mrm/:category?": [
+        "TonyRL"
     ],
     "/mubu/explore/:category?/:title?": [],
     "/muchong/:id/:type?/:sort?": [],
@@ -4977,6 +5054,9 @@
     "/one": [],
     "/onejav/:type/:key?": [],
     "/onenotegem/release": [],
+    "/onet/news": [
+        "Vegann"
+    ],
     "/oo-software/changelog/:id": [
         "nczitzk"
     ],
@@ -5309,10 +5389,12 @@
     ],
     "/project-zero-issues": [],
     "/proletar/:type?/:id?": [],
-    "/ps/:lang?/product/:gridName": [],
-    "/ps/list/:gridName": [],
-    "/ps/ps4updates": [],
-    "/ps/trophy/:id": [],
+    "/ps/monthly-games": [
+        "justjustCC"
+    ],
+    "/ps/trophy/:id": [
+        "DIYgod"
+    ],
     "/psnine/game": [],
     "/psnine/index": [],
     "/psnine/news/:order?": [],
@@ -5365,6 +5447,9 @@
     "/qcloud/mlvb/changelog": [],
     "/qdu/jwc": [
         "abc1763613206"
+    ],
+    "/qianp/news/:path*": [
+        "TonyRL"
     ],
     "/qianzhan/analyst/column/:type?": [
         "moke8"
@@ -5657,6 +5742,12 @@
     "/scmp/:category_id": [
         "proletarius101"
     ],
+    "/scmp/coronavirus": [
+        "DIYgod"
+    ],
+    "/scmp/topics/:topic": [
+        "TonyRL"
+    ],
     "/scnu/cs/match": [
         "fengkx"
     ],
@@ -5749,10 +5840,12 @@
         "p7e4"
     ],
     "/secrss/author/:author": [
-        "XinRoom"
+        "XinRoom",
+        "SunBK201"
     ],
     "/secrss/category/:category?": [
-        "XinRoom"
+        "XinRoom",
+        "SunBK201"
     ],
     "/secshi": [],
     "/security/pulses": [],
@@ -5872,6 +5965,9 @@
     ],
     "/shu/jwb/:type?": [
         "tuxinghuan"
+    ],
+    "/shuiguopai": [
+        "nczitzk"
     ],
     "/sicau/dky/:category?": [
         "nczitzk"
@@ -6260,6 +6356,9 @@
     "/tableau/app/discover/viz-of-the-day": [
         "KaiyoungYu"
     ],
+    "/taiwannews/hot/:lang?": [
+        "TonyRL"
+    ],
     "/tanchinese/:category?": [],
     "/tangshufang/:category?": [
         "nczitzk"
@@ -6495,7 +6594,7 @@
         "aether17"
     ],
     "/tianyancha/hot": [],
-    "/tiktok/user/:user": [
+    "/tiktok/user/:user/:iframe?": [
         "TonyRL"
     ],
     "/timednews/news/:type?": [
@@ -6610,10 +6709,16 @@
     "/tradingview/blog/:language?/category/:category?": [
         "nczitzk"
     ],
+    "/tradingview/desktop": [
+        "nczitzk"
+    ],
     "/trakt/collection/:username/:type?": [],
     "/treasury/press-releases/:category?/:title?": [],
     "/trending/:keywords/:numberOfDays?": [
         "Jkker"
+    ],
+    "/trendingpapers/papers/:category?/:time?/:cited?": [
+        "CookiePieWw"
     ],
     "/tribalfootball": [
         "Rongronggg9"
@@ -7581,6 +7686,9 @@
         "JimenezLi"
     ],
     "/zhihu/xhu/people/answers/:hexId": [
+        "JimenezLi"
+    ],
+    "/zhihu/xhu/people/posts/:hexId": [
         "JimenezLi"
     ],
     "/zhihu/xhu/question/:questionId/:sortBy?": [
